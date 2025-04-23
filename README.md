@@ -1,1 +1,1 @@
-add all topics from function
+this is about functions topic in python
